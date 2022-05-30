@@ -1,0 +1,42 @@
+Git commands: https://blog.testproject.io/2021/03/22/git-commands-every-sdet-should-know/
+
+
+=============Local link===================================
+https://88.99.94.84/droppa
+
+=============================================================
+steps:
+
+1->mongod --port 28540
+2-> 
+
+
+
+====================Getting Loggs===========================
+
+1->ssh droppa@88.99.94.84
+2->history or ctrl+R
+
+=============================================================
+
+
+
+======================Message================================
+
+https://docs.oracle.com/javaee/6/api/javax/mail/Message.html
+
+=============================================================
+
+
+
+================================InternetAddress================================
+
+https://javaee.github.io/javaee-spec/javadocs/javax/mail/internet/InternetAddress.html
+
+===============================================================================
+
+
+
+
+
+
